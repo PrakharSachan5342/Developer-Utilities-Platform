@@ -1,4 +1,4 @@
-[![MasterHead](/public/preview/home-preview.png)](https://github.com/atuandev/tools)
+[![MasterHead](/public/preview/home-preview.png)](https://github.com/PrakharSachan5342/Developer-Utilities-Platform)
 
 ## Tools Online
 Collection of free tools for developer, designer.
