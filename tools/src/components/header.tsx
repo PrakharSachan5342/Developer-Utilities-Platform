@@ -39,7 +39,7 @@ export function Header() {
               </Link>
             </TooltipTrigger>
             <TooltipContent sideOffset={10}>
-              <p>@atuandev</p>
+              <p>@PrakharSachan5342</p>
             </TooltipContent>
           </Tooltip>
         </div>
