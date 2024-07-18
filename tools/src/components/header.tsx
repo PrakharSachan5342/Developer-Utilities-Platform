@@ -30,7 +30,7 @@ export function Header() {
           <Tooltip>
             <TooltipTrigger>
               <Link
-                href='https://github.com/atuandev'
+                href='https://github.com/PrakharSachan5342'
                 target='_blank'
                 rel='noreferrer noopener'
                 aria-label='GitHub'
